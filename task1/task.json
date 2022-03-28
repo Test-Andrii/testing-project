@@ -1,1 +1,1 @@
-{"name":"task1","environmentVariables":[],"parameters":["--1024","--filesize","--filename","/storage/random.txt"],"title":"task1","id":0}
+{"name":"task1","environmentVariables":[],"parameters":["--1024","--filesize","/storage/random.txt","--filename"],"title":"task1","id":0}
